@@ -1,9 +1,9 @@
-url: http://home.ustc.edu.cn  # Change to "http://staff.ustc.edu.cn" if you're a staff
-baseurl: /~lky17698201161     # Change to "/~" plus your email username
+url: http://home.ustc.edu.cn   # Change to "http://staff.ustc.edu.cn" if you're a staff
+baseurl: /~lky17698201161      # Change to "/~" plus your email username
 
 theme: minima
-title: "My awesome home page" # Your home page name
-description: "Blah blah"      # Your description
+title: "My awesome home page"  # Your home page name
+description: "Blah blah"       # Your description
 
 exclude:
   - '.*'
